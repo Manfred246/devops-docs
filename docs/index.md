@@ -14,3 +14,5 @@
 Адрес сайта: `https://manfred246.github.io/devops-docs/`.
 
 [Восстановление](incidents.md)
+
+[Контроль проверки](missing-page.md)
