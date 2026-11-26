@@ -13,4 +13,4 @@
 
 Адрес сайта: `https://manfred246.github.io/devops-docs/`.
 
-[Восстановление](recovery.md)
+[Восстановление](incidents.md)
